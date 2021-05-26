@@ -14,7 +14,7 @@ class MateriTableSeeder extends Seeder
         DB::table('materi')->insert([
             'id' => '1',
             'mapel' => 'Matematika',
-            'kelas' => 'XI RPL 1',
+            'kelas' => 'XII TKJ 1',
             'judul' => 'Matriks Ordo 2x2',
             'isi' => '
             <h1>Matriks Ordo 2x2 - Heading 1</h1>

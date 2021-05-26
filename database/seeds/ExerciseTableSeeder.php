@@ -13,9 +13,9 @@ class ExerciseTableSeeder extends Seeder
     {
         DB::table('exercise')->insert([
             'id' => '1',
-            'mapel' => 'Pemprograman Berorientasi Objek',
-            'kelas' => 'XI RPL 1',
-            'nama_exercise' => 'Tipe Data',
+            'mapel' => 'Jaringan Komputer',
+            'kelas' => 'XII TKJ 1',
+            'nama_exercise' => 'Jenis-Jenis Kabel',
             'deskripsi' => 'HAYO EXERCISE NIH! ^o^',
             'user_id_teacher' => '2',
         ]);

@@ -11,22 +11,25 @@ class mataPelajaranTableSeeder extends Seeder
      */
     public function run()
     {
-        /**
-         * Mapel PBO
-         *
-         */
+        
         DB::table('mata_pelajaran')->insert([
             'id' => '1',
-            'nama_mapel' => 'Pemprograman Berorientasi Objek',
+            'nama_mapel' => 'Jaringan Komputer',
         ]);
 
-        /**
-         * Mapel Matematika
-         *
-         */
         DB::table('mata_pelajaran')->insert([
             'id' => '2',
             'nama_mapel' => 'Matematika',
+        ]);
+
+        DB::table('mata_pelajaran')->insert([
+            'id' => '3',
+            'nama_mapel' => 'Bahasa Indonesia',
+        ]);
+
+        DB::table('mata_pelajaran')->insert([
+            'id' => '4',
+            'nama_mapel' => 'Bahasa Inggris',
         ]);
     }
 }
