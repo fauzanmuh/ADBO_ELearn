@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>  
-        <title>LaraELearn - @yield('title')</title>
+        <title>SMKLearn - @yield('title')</title>
         @include('partials.dashHead')
     </head>
 

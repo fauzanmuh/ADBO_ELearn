@@ -256,7 +256,7 @@
                                     <div class="form-group row">
                                         <label class="col-sm-2 col-form-label">Tahun Lahir*</label>
                                         <div class="col-sm-10">
-                                            <input  name="tahun_lahir" type="text" class="form-control" placeholder="Tahun Lahir, misal: 2003" value="{{ $user->tahun_lahir }}">
+                                            <input  name="tahun_lahir" type="text" class="form-control" placeholder="Tahun Lahir, misal: 2001" value="{{ $user->tahun_lahir }}">
                                             @if($errors->has('tahun_lahir'))
                                                 <div class="text-danger">
                                                     {{ $errors->first('tahun_lahir')}}
@@ -313,7 +313,7 @@
                                     <div class="form-group row">
                                         <label class="col-sm-2 col-form-label">Jabatan</label>
                                         <div class="col-sm-10">
-                                            <input name="jabatan" type="text" class="form-control" placeholder="Jabatan, misal: Komandan Kompi RPL" value="{{ $user->jabatan }}">
+                                            <input name="jabatan" type="text" class="form-control" placeholder="Jabatan.." value="{{ $user->jabatan }}">
                                         </div>
                                     </div>
 

@@ -52,30 +52,10 @@ class MateriTableSeeder extends Seeder
             <p><cite><big>&quot;It doesn&#39;t matter how slowly you go, as long as you do not STOP!&quot;</big></cite>- Dari Orang</p>
             </blockquote>
 
-            <blockquote>
-            <p><big>&quot;With Music To Become Thousands Lines Of Code&quot;</big> - Punya Orang juga</p>
-            </blockquote>
-
-            <p>&nbsp;</p>
-
-            <h1>Author :</h1>
-
-            <p><img alt="" src="http://localhost:8000/photos/2/IMG_20191016_101634.jpg" style="float:left; height:162px; width:150px" />&nbsp; Nama : Abdurozzaq Nurul Hadi</p>
-
-            <p>&nbsp; Profesi : Pelajar</p>
-
-            <p>&nbsp; Bio : <cite>&quot;Beliau adalah seorang anak muda Bucin yang bercita-cita menjadi Full Stack Web Developer.&quot;</cite></p>
-
-            <p>&nbsp; #NOHARDFEELING #NOOFFENSE #STAYCODING #CODINGINLIFE&nbsp;</p>
-
-            <p>&nbsp;&nbsp;<big><cite>STATUS &quot;KIA&quot;&nbsp;</cite></big></p>
-
-            <p>&nbsp;&nbsp;</p>
-
             <p>&nbsp;</p>
             ',
             'keterangan' => 'Ini adalah Keterangan jadi jangan takut gelap.',
-            'kesimpulan' => 'Ini Hanya suatu EasterEgg dari Creator LaraELearn. SO, NO HARD FEELING!',
+            'kesimpulan' => 'Ini Hanya suatu EasterEgg dari Creator SMKLearn. SO, NO HARD FEELING!',
             'user_id_teacher' => '2',
         ]);
     }
