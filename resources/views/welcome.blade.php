@@ -88,7 +88,6 @@
                 </div>
 
                 <div class="links col-md-12">
-                    <a href="#">Documentation, Coming Soon!</a>
                     <br>
                     <p>©Copyright 2021 ADBO E-Learning. Created By <strong>Muhammad Fauzan</strong>.</p>
                     <h2>SMK BISA</h2>
